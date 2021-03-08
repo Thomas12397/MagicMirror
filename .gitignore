@@ -80,3 +80,6 @@ Temporary Items
 *.orig
 *.rej
 *.bak
+
+# Ignore Sublime
+*.sublime*
