@@ -1,3 +1,7 @@
+.clock {
+  transform: scale(1.5);
+}
+
 .clockCircle {
   margin: 0 auto;
   position: relative;
