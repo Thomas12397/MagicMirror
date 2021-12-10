@@ -1,3 +1,10 @@
-.clock {
-  transform: scale(1.5);
+.clock
+{
+   transform: scale(1.1);
+   background-color: rgba(0, 0, 0, 0.5);
+}
+
+.now
+{
+   transform:  scale(2.0);
 }
